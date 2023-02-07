@@ -1,1 +1,1 @@
-# help
+# https://shirabot.xyz/go/ElixirDev FreeScript
